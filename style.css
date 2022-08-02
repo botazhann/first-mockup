@@ -626,7 +626,6 @@ color: #FFFFFF;
     width: 100%;
     font-size: 36px;
   }
-}
 
 .header-small {
   width: 100%;
@@ -794,4 +793,5 @@ text-align: center;
   align-items: center;
   width: 100%;
   height: auto;
+}
 }
